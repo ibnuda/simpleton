@@ -1074,4 +1074,8 @@ Text GLabel 4850 6350 0    50   Input ~ 0
 COL3
 Text GLabel 4850 6450 0    50   Input ~ 0
 COL4
+Text GLabel 5850 4950 2    50   Input ~ 0
+GND
+Text GLabel 4850 6650 0    50   Input ~ 0
+GND
 $EndSCHEMATC
